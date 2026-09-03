@@ -1,0 +1,1 @@
+print("Hello, Lubuntu Python Environment!")
